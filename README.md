@@ -1,15 +1,16 @@
-### Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"/>
-### I am Omeir
+# Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"/> I am <a href="https://omeir.tech"> Omeir </a>
+
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][portfolio]
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img src="https://img.shields.io/badge/omeiirr-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" className="twitter"/>][twitter]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
 - 🔭 I’m currently working in React
 - 🌱 I’m currently learning Java and DSA
 - 👯 I’m curious to learn about DevOps
 - 🚀 2021 Goals: Contribute more to open-source projects
 
-### Connect with me:
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][portfolio]
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
-[<img src="https://img.shields.io/badge/omeiirr-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" className="twitter"/>][twitter]
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+<!-- ### Connect with me: -->
 
 ## Skills
 ### Languages ⚡
