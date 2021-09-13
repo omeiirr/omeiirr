@@ -5,10 +5,11 @@
 [<img src="https://img.shields.io/badge/omeiirr-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" className="twitter"/>][twitter]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-- 🔭 I’m currently working in React
-- 🌱 I’m currently learning Java and DSA
-- 👯 I’m curious to learn about DevOps
-- 🚀 2021 Goals: Contribute more to open-source projects
+🎓 Pursuing undergraduate degree in Computer Science
+🔭 Currently working in React
+🌱 Learning Java and DSA
+👯 Curious to learn about DevOps
+🚀 2021 Goals: Contribute more to open-source projects
 
 <!-- ### Connect with me: -->
 
