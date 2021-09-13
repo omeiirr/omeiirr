@@ -42,11 +42,14 @@
 ### Databases 📦
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-
 <br/>
 
-[![Omeir's github stats](https://github-readme-stats.vercel.app/api?username=omeiirr&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omeiirr&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+### Stats 📊
+[![Omeir's github stats](https://github-readme-stats.vercel.app/api?username=omeiirr&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omeiirr&theme=tokyonight" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omeiirr&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Bucket List 💭
 - [ ] Contribute to a major open-source project
