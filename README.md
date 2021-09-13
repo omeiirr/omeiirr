@@ -1,4 +1,4 @@
-# Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"/> I am <a href="https://omeir.tech"> Omeir </a>
+# Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"/> I am <a href="https://omeir.tech"> Omeir ![Profile Visits](https://komarev.com/ghpvc/?username=omeiirr) </a> 
 
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][portfolio]
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
