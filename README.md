@@ -6,12 +6,16 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 🎓 Pursuing undergraduate degree in Computer Science
+
 🔭 Currently working in React
+
 🌱 Learning Java and DSA
+
 👯 Curious to learn about DevOps
+
 🚀 2021 Goals: Contribute more to open-source projects
 
-<!-- ### Connect with me: -->
+<br />
 
 ## Skills
 ### Languages ⚡
