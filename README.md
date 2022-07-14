@@ -58,7 +58,7 @@
 
 
 ### Bucket List 💭
-- [ ] Contribute to a major open-source project
+- [x] Contribute to a major open-source project
 - [ ] Build a custom PC
 - [ ] Visit Japan
 
