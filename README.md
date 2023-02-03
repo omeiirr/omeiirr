@@ -9,13 +9,13 @@
 
 🎓 Pursuing undergraduate degree in Computer Science
 
-🔭 Currently working in React
+🔭 Currently working in React, Go, and AWS
 
-🌱 Learning Java and DSA
+🌱 Learning Go and Rust
 
 👯 Curious to learn about DevOps
 
-🚀 2021 Goals: Contribute more to open-source projects
+🚀 2023 Goals: Contribute more to open-source projects
 
 <br />
 
@@ -62,7 +62,7 @@
 - [ ] Build a custom PC
 - [ ] Visit Japan
 
-[portfolio]: https://omeir.tech
+[portfolio]: https://omeir.dev
 [gmail]: mailto:omeirf.02@gmail.com
 [twitter]: https://twitter.com/omeiirr
 [linkedin]: https://linkedin.com/in/omeir-fawaz
