@@ -7,8 +7,6 @@
 [<img src="https://img.shields.io/badge/omeiirr-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" className="twitter"/>][twitter]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-🎓 Pursuing undergraduate degree in Computer Science
-
 🔭 Currently working in React, Go, and AWS
 
 🌱 Learning Go and Rust
@@ -56,11 +54,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omeiirr&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### Bucket List 💭
-- [x] Contribute to a major open-source project
-- [ ] Build a custom PC
-- [ ] Visit Japan
 
 [portfolio]: https://omeir.dev
 [gmail]: mailto:omeirf.02@gmail.com
